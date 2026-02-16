@@ -27,9 +27,7 @@ Cada capítulo está documentado en Jupyter Notebooks, combinando teoría, códi
 
 git clone https://github.com/JavierMtech/Pensando-en-Ciencia-de-Datos/
 
-2. Abre los notebooks en Jupyter:
-
-jupyter notebook
+2. Abre los notebooks en Jupyter o bien Visual Code.
 
 3. Explora cada capítulo y ejecuta los ejemplos de código.
 
