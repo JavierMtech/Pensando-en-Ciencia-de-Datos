@@ -22,8 +22,7 @@ Cada capítulo está documentado en Jupyter Notebooks, combinando teoría, códi
 - Git/GitHub para control de versiones
 - Visual Code
 
-Cómo Explorar los Notebooks
-
+### Cómo Explorar los Notebooks
 1. Clona el repositorio:
 
 ##python git clone https://github.com/tuusuario/guia-ciencia-datos.git
