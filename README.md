@@ -32,3 +32,11 @@ git clone https://github.com/JavierMtech/Pensando-en-Ciencia-de-Datos/
 jupyter notebook
 
 3. Explora cada capítulo y ejecuta los ejemplos de código.
+
+### Resultados y Logros
+- Más de 100 ejemplos de código reproducibles en Python y R.
+- Aplicación de técnicas avanzadas de machine learning y visualización de datos.
+- Documentación profesional de todo el flujo de trabajo, desde la limpieza de datos hasta la interpretación de resultados.
+
+### Licencia y Créditos
+Este repositorio fue desarrollado para fines educativos y demostrativos. Se han adaptado y traducido materiales originales de varias fuentes académicas.
