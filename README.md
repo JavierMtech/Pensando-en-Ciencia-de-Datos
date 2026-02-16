@@ -25,7 +25,7 @@ Cada capítulo está documentado en Jupyter Notebooks, combinando teoría, códi
 ### Cómo Explorar los Notebooks
 1. Clona el repositorio:
 
-##python git clone https://github.com/tuusuario/guia-ciencia-datos.git
+git clone https://github.com/JavierMtech/Pensando-en-Ciencia-de-Datos/
 
 2. Abre los notebooks en Jupyter:
 
