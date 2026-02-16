@@ -13,4 +13,11 @@ Este repositorio contiene una guía práctica de ciencia de datos, desarrollada 
 - Evaluación de modelos y métricas
 - Automatización de flujos de trabajo y documentación reproducible
 - Casos de estudio con datasets reales
-- Cada capítulo está documentado en Jupyter Notebooks, combinando teoría, código y visualizaciones interactivas.
+Cada capítulo está documentado en Jupyter Notebooks, combinando teoría, código y visualizaciones interactivas.
+
+### Tecnologías y Herramientas
+- Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
+- R para análisis complementario
+- Jupyter Notebooks
+- Git/GitHub para control de versiones
+- Visual Code
